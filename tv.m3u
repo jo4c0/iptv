@@ -4,8 +4,8 @@
 #              NACIONALES
 ########################################
 
-#EXTINF:-1 tvg-id="13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/1206px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png" group-title="Nacionales",Canal 13
+#EXTINF:-1 tvg-id="13" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/1206px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png" group-title="Nacionales",Canal 13
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/33c1b78a-98dc-49c4-b7e3-7df9ffaf0361:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8
 
-#EXTINF:-1 tvg-id="tntsportp.cl" tvg-name="TNT Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg/1206px-Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg.png" group-title="Nacionales",TNT Sports Premium
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjU2LjIwMC4yMjg=/56_.m3u8?token=xs8f3Qg5hJctDO1U4qylLQ&expires=1766169751
+#EXTINF:-1 tvg-id="tntsportp.cl" tvg-name="TNT Sports Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="Nacionales",TNT Sports Premium
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjU2LjIwMC4yMjg=/56_.m3u8?token=3UZZBGogx1-58KeTbBHhcg&expires=1766170115
